@@ -1,0 +1,7 @@
+{
+  "ver": "1.0.0",
+  "uuid": "51e53033-c926-47ea-b250-17709be720db",
+  "atlasJson": "{\"width\":1024,\"imagePath\":\"newplayer_ske_tex.png\",\"height\":1024,\"name\":\"newplayer_ske\",\"SubTexture\":[{\"width\":271,\"y\":1,\"height\":320,\"name\":\"头发\",\"x\":326},{\"width\":323,\"y\":1,\"height\":771,\"name\":\"身体\",\"x\":1},{\"y\":774,\"frameX\":-1,\"frameHeight\":133,\"frameY\":0,\"width\":108,\"frameWidth\":109,\"height\":132,\"name\":\"脸\",\"x\":166},{\"width\":163,\"y\":774,\"height\":242,\"name\":\"头发前\",\"x\":1}]}",
+  "texture": "b722bea4-2f8e-4a00-a680-4618454f7594",
+  "subMetas": {}
+}

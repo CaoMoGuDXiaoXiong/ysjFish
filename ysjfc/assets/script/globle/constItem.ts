@@ -1,0 +1,10 @@
+export enum  CONSTITEM{ //道具ID
+
+   ITEM_LOCK=200001,
+   ITEM_FREEZE=200002,
+   ITEM_SKILL1001=1001, //使用嗜血技能
+   ITEM_SKILL1002=1002, //使用双炮技能
+   ITEM_SKILL1003=1003//使用三炮技能
+
+
+}

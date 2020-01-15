@@ -1,0 +1,7 @@
+{
+  "ver": "1.0.0",
+  "uuid": "db6d268b-2fa2-43e5-94b9-63b6adcb9a87",
+  "atlasJson": "{\"width\":512,\"SubTexture\":[{\"width\":189,\"y\":1,\"height\":82,\"name\":\"游泳圈补\",\"x\":298},{\"width\":76,\"y\":213,\"height\":45,\"name\":\"左手\",\"x\":383},{\"width\":256,\"y\":307,\"height\":165,\"name\":\"组_5\",\"x\":1},{\"width\":18,\"y\":500,\"height\":10,\"name\":\"项链补\",\"x\":1},{\"width\":149,\"y\":307,\"height\":121,\"name\":\"耳机补\",\"x\":259},{\"width\":295,\"y\":1,\"height\":304,\"name\":\"鲨鱼\",\"x\":1},{\"frameX\":0,\"frameHeight\":68,\"y\":430,\"frameY\":0,\"frameWidth\":184,\"width\":181,\"height\":68,\"name\":\"泳圈\",\"x\":259},{\"width\":75,\"y\":85,\"height\":126,\"name\":\"项链\",\"x\":410},{\"width\":83,\"y\":213,\"height\":84,\"name\":\"耳机\",\"x\":298},{\"width\":58,\"y\":260,\"height\":39,\"name\":\"闭眼\",\"x\":383}],\"imagePath\":\"Shayu_tex.png\",\"name\":\"Shayu\",\"height\":512}",
+  "texture": "9a37f9a1-dcec-4066-8aaf-668d851df3db",
+  "subMetas": {}
+}

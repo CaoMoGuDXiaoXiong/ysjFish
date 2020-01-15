@@ -1,0 +1,7 @@
+{
+  "ver": "1.0.0",
+  "uuid": "37a2b84a-b0f0-4ae9-9bd1-de819ddab0c1",
+  "atlasJson": "{\"width\":1024,\"imagePath\":\"net_1004_tex.png\",\"height\":512,\"name\":\"net_1004\",\"SubTexture\":[{\"width\":128,\"y\":228,\"height\":128,\"name\":\"fog\",\"x\":455},{\"frameY\":0,\"y\":470,\"frameWidth\":32,\"frameX\":-2,\"frameHeight\":32,\"width\":28,\"height\":32,\"name\":\"snow\",\"x\":246},{\"frameY\":-63,\"y\":358,\"frameWidth\":250,\"frameX\":-66,\"frameHeight\":250,\"width\":118,\"height\":118,\"name\":\"wangpao1\",\"x\":455},{\"width\":67,\"y\":358,\"height\":67,\"name\":\"wangpao\",\"x\":575},{\"frameY\":-2,\"y\":228,\"frameWidth\":243,\"frameX\":-18,\"frameHeight\":243,\"width\":207,\"height\":240,\"name\":\"wang1\",\"x\":246},{\"width\":243,\"y\":1,\"height\":243,\"name\":\"wang\",\"x\":1},{\"frameY\":-8,\"y\":1,\"frameWidth\":243,\"frameX\":-1,\"frameHeight\":243,\"width\":240,\"height\":225,\"name\":\"wang3\",\"x\":246},{\"width\":243,\"y\":246,\"height\":243,\"name\":\"wang2\",\"x\":1}]}",
+  "texture": "ae0666a5-0599-4b60-a61b-ed171c0ea9b1",
+  "subMetas": {}
+}

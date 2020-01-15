@@ -1,0 +1,7 @@
+{
+  "ver": "1.0.0",
+  "uuid": "010f497e-8153-49f7-8609-e42d884d5c9d",
+  "atlasJson": "{\"width\":512,\"imagePath\":\"suoding_tex.png\",\"height\":512,\"name\":\"suoding\",\"SubTexture\":[{\"width\":264,\"y\":1,\"height\":264,\"name\":\"suoding1\",\"x\":1}]}",
+  "texture": "fb67ee0d-c8c1-4ae4-9d0c-36b3e21c55ce",
+  "subMetas": {}
+}

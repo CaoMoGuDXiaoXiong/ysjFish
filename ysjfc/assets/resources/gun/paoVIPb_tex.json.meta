@@ -1,0 +1,7 @@
+{
+  "ver": "1.0.0",
+  "uuid": "4be02f3d-4576-4384-bdee-1aaccdd17b5d",
+  "atlasJson": "{\"width\":512,\"imagePath\":\"paoVIPb_tex.png\",\"height\":256,\"name\":\"paoVIPb\",\"SubTexture\":[{\"width\":63,\"y\":1,\"height\":74,\"name\":\"fire\",\"x\":202},{\"width\":64,\"y\":77,\"height\":64,\"name\":\"glow00\",\"x\":202},{\"width\":199,\"y\":1,\"height\":200,\"name\":\"b\",\"x\":1}]}",
+  "texture": "bf752072-aab0-4626-9dab-6ae56710208a",
+  "subMetas": {}
+}

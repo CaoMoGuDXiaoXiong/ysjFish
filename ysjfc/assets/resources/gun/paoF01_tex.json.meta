@@ -1,0 +1,7 @@
+{
+  "ver": "1.0.0",
+  "uuid": "486ca97f-5feb-45a4-853a-4c8fe60a2967",
+  "atlasJson": "{\"width\":512,\"imagePath\":\"paoF01_tex.png\",\"height\":256,\"name\":\"paoF01\",\"SubTexture\":[{\"width\":63,\"y\":1,\"height\":74,\"name\":\"fire\",\"x\":202},{\"width\":64,\"y\":77,\"height\":64,\"name\":\"glow00\",\"x\":202},{\"width\":199,\"y\":1,\"height\":200,\"name\":\"kj\",\"x\":1}]}",
+  "texture": "d69c02c6-4d33-4532-a5a0-9eac138a19c8",
+  "subMetas": {}
+}

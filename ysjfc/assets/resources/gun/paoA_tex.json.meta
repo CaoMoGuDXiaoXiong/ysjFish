@@ -1,0 +1,7 @@
+{
+  "ver": "1.0.0",
+  "uuid": "6bd16da4-18f9-477e-aaaf-e744e79916c8",
+  "atlasJson": "{\"width\":256,\"imagePath\":\"paoA_tex.png\",\"height\":512,\"name\":\"paoA\",\"SubTexture\":[{\"width\":63,\"y\":431,\"height\":74,\"name\":\"fire\",\"x\":1},{\"width\":64,\"y\":300,\"height\":64,\"name\":\"glow00\",\"x\":1},{\"y\":1,\"frameX\":-70,\"frameHeight\":200,\"frameY\":-10,\"width\":64,\"frameWidth\":199,\"height\":130,\"name\":\"1\",\"x\":175},{\"y\":158,\"frameX\":-54,\"frameHeight\":200,\"frameY\":-11,\"width\":96,\"frameWidth\":199,\"height\":137,\"name\":\"3\",\"x\":118},{\"y\":158,\"frameX\":-45,\"frameHeight\":200,\"frameY\":-10,\"width\":115,\"frameWidth\":199,\"height\":140,\"name\":\"4\",\"x\":1},{\"y\":1,\"frameX\":-16,\"frameHeight\":200,\"frameY\":-3,\"width\":172,\"frameWidth\":199,\"height\":155,\"name\":\"5\",\"x\":1},{\"y\":297,\"frameX\":-58,\"frameHeight\":200,\"frameY\":-10,\"width\":88,\"frameWidth\":199,\"height\":132,\"name\":\"2\",\"x\":118}]}",
+  "texture": "ade36cda-f3a0-4499-8c14-481d935c31a4",
+  "subMetas": {}
+}

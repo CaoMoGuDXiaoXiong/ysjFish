@@ -1,0 +1,7 @@
+{
+  "ver": "1.0.0",
+  "uuid": "12357b8f-eb34-4a31-ab83-bd156c8b7945",
+  "atlasJson": "{\"width\":256,\"imagePath\":\"paoB01_tex.png\",\"height\":128,\"name\":\"paoB01\",\"SubTexture\":[{\"width\":63,\"y\":1,\"height\":74,\"name\":\"fire\",\"x\":81},{\"width\":64,\"y\":1,\"height\":64,\"name\":\"glow00\",\"x\":146},{\"frameY\":-18,\"y\":1,\"frameWidth\":199,\"frameX\":-63,\"frameHeight\":200,\"width\":78,\"height\":118,\"name\":\"x\",\"x\":1}]}",
+  "texture": "c01ca8b1-97d4-48be-98d3-dac18a542468",
+  "subMetas": {}
+}
